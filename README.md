@@ -1,4 +1,4 @@
-<h1 align="center">Whaticket Baileys |Canal Vem Fazer</h1>
+<h1 align="center">Whaticket Baileys |R8Digital</h1>
 
 <div align="center">
 
@@ -6,7 +6,7 @@
 [![Nubank](https://img.shields.io/badge/donate-nubank-purple)](https://nubank.com.br/pagar/1j4x3i/qA4jW8n5WR)
 
 
-<h1 align="center">https://www.youtube.com/channel/UCwFO9ylM7gHxYIXfJqAo1vQ</h1>
+<h1 align="center">https://www.r8digital.com.br</h1>
 
 
 
@@ -15,7 +15,7 @@
 FAZENDO DOWNLOAD DO INSTALADOR & INICIANDO A PRIMEIRA INSTALAÇÃO (USAR SOMENTE PARA PRIMEIRA INSTALAÇÃO):
 
 ```bash
-sudo apt install -y git && git clone https://github.com/vemfazer/install install && sudo chmod -R 777 ./install && cd ./install && sudo ./install_primaria
+sudo apt install -y git && git clone https://github.com/betomoraisr8/install install && sudo chmod -R 777 ./install && cd ./install && sudo ./install_primaria
 ```
 
 ACESSANDO DIRETORIO DO INSTALADOR & INICIANDO INSTALAÇÕES ADICIONAIS (USAR ESTE COMANDO PARA SEGUNDA OU MAIS INSTALAÇÃO:
@@ -36,9 +36,9 @@ Email válido para certificação SSL
 
 ## Consultoria e contato:
 
-    CANAL VEM FAZER LTDA
+    R8DIGITAL
 
-    Fone: 81 99627-7285(WhatsApp)
+    Fone: 61 99617-0058 (WhatsApp)
 
 
 ## Se o conteúdo te ajudou ajude este projeto:
@@ -46,7 +46,7 @@ Email válido para certificação SSL
 
 <div align="center">
     <h3>Ajude com qualquer valor</h3>
-  <a href="https://nubank.com.br/pagar/1lncfj/NjJMFk7UoK" target="_blank" rel="noopener noreferrer">
+  <a href="#" target="_blank" rel="noopener noreferrer">
     <img src="./public/images/nubank.jpeg" style="width: 50% !important;">
   </a>
 </div>
@@ -54,7 +54,7 @@ Email válido para certificação SSL
 
 Copia e cola:
 
-    00020126580014BR.GOV.BCB.PIX01362e05806e-d1b7-4eb7-b1db-f02009c7bc015204000053039865802BR592552.262.410 RAPHAEL BATIST6009SAO PAULO61080540900062250521IteWKSyU6xhcUBH1lncfj63040504
+   Pix:
 
 
 
